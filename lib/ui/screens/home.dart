@@ -16,6 +16,6 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         title: Text("OAuth Example"),
       ),
-    )
+    );
   }
 }
